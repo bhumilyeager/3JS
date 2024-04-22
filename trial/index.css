@@ -3,3 +3,19 @@
     height: 500px;
     border: 2px black solid;
 }
+.otherlinks{
+    text-align: center;
+    align-content: center;
+    background-image: url('images/space.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+.product,.parent{
+    color:aliceblue;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
